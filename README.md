@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Requirements].(#requirements)
+- [Requirements](#requirements)
 - [Installation](#installation)
 
 ## Project Overview
