@@ -4,10 +4,8 @@
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
+- [Requirements].(#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 The **Fare Friendly Student Pass Organizer** is a web application designed to provide an organized platform for students to manage and join train travel pass groups. The application allows users to create groups, join existing ones, and facilitates an admin approval system for applications. This project aims to simplify the process of managing travel passes among students.
@@ -40,12 +38,3 @@ To set up the project locally, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/FareFriendlyStudentPassOrganizer.git
-
-
-
-### Key Changes:
-1. Added a **Requirements** section to specify necessary software like XAMPP and a web browser.
-2. Clarified that XAMPP includes the web server, PHP, and MySQL.
-
-Feel free to modify any parts of the README to better fit your needs! If you have more requests, just let me know!
-
