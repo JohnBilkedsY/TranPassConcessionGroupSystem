@@ -25,12 +25,14 @@ The **Fare Friendly Student Pass Organizer** was developed to address these issu
 - **Group Creation**: Students can create new groups for train travel passes.
 - **Group Joining**: Students can join existing groups to collaborate on travel plans.
 - **Admin Approval**: An admin approval system is in place for managing applications to ensure organized participation.
+- **Admin Management**: The admin can manage station, fares, student and groups, ensuring that all information is accurate and up-to-date.
 
 ## Requirements 
 - **Xampp control panel**: download from https://www.apachefriends.org/index.html
 - **Visual Studio Code**: download from https://code.visualstudio.com/ While its Not Necessary , we can also use other text editors
 - **tcpdf**: TCPDF is a popular PHP library for generating PDF documents programmatically. download from online.
-- **Browser**: Any web browser
+- **Web Browser**: Any modern browser (e.g., Chrome, Firefox, Safari)
+
 
 ## Installation
 To set up the project locally, follow these steps:
