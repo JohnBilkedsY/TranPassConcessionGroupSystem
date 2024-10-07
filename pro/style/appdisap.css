@@ -1,0 +1,39 @@
+
+.container {
+    max-width: 1100px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #CADCFC;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.group {
+    border: 1px solid #00246B; /* Add border to each group */
+    padding: 10px;
+    margin-bottom: 10px; /* Add margin between groups */
+}
+
+button {
+    background-color: blue;
+    border-radius: 4px;
+    color: white;
+    margin-bottom: 10px;
+}
+#x{
+    background-color:red;
+    margin-left:10px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
