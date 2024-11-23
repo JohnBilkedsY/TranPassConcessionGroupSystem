@@ -32,11 +32,8 @@ The **Fare Friendly Student Pass Organizer** was developed to address these issu
 - **Visual Studio Code**: download from https://code.visualstudio.com/ While its Not Necessary , we can also use other text editors
 - **tcpdf**: TCPDF is a popular PHP library for generating PDF documents programmatically. download from online.
 - **Web Browser**: Any modern browser (e.g., Chrome, Firefox, Safari)
+## UI
+--**Admin dashboard**:
+![admindash](https://github.com/user-attachments/assets/fb74b1ea-48df-42e7-8539-ee7e1092af04)
 
 
-## Installation
-To set up the project locally, follow these steps:
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/FareFriendlyStudentPassOrganizer.git
