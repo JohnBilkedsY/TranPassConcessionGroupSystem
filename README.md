@@ -32,7 +32,7 @@ The **Fare Friendly Student Pass Organizer** was developed to address these issu
 - **Visual Studio Code**: download from https://code.visualstudio.com/ While its Not Necessary , we can also use other text editors
 - **tcpdf**: TCPDF is a popular PHP library for generating PDF documents programmatically. download from online.
 - **Web Browser**: Any modern browser (e.g., Chrome, Firefox, Safari)
-## UI
+## UserInterface
 -**Home page**:
 ![Screenshot 2024-03-14 220109](https://github.com/user-attachments/assets/6b019ff6-413e-43a6-98c0-a55aa34010a1)
 
