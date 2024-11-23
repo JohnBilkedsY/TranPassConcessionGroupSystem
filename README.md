@@ -5,7 +5,7 @@
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
+- [UserInterface](#UserInterface)
 
 ## Project Overview
 The **Fare Friendly Student Pass Organizer** is a web application designed to provide an organized platform for students to manage and join train travel pass groups. The application allows users to create groups, join existing ones, and facilitates an admin approval system for applications. This project aims to simplify the process of managing travel passes among students.
@@ -33,7 +33,27 @@ The **Fare Friendly Student Pass Organizer** was developed to address these issu
 - **tcpdf**: TCPDF is a popular PHP library for generating PDF documents programmatically. download from online.
 - **Web Browser**: Any modern browser (e.g., Chrome, Firefox, Safari)
 ## UI
---**Admin dashboard**:
+-**Home page**:
+![Screenshot 2024-03-14 220109](https://github.com/user-attachments/assets/6b019ff6-413e-43a6-98c0-a55aa34010a1)
+
+-**Student Registration**:
+![reg](https://github.com/user-attachments/assets/378806d6-8384-4387-b111-45aeaa63dfa5)
+
+-**Student Login**:
+![log](https://github.com/user-attachments/assets/01c53273-70b1-47c4-b5e5-673e297183e6)
+-**Student dashboard**:
+![Screenshot 2024-03-14 220622](https://github.com/user-attachments/assets/3aa8cc0a-42e4-45b9-93cb-8459df4dd8c2)
+-**Student Group Creation Page**:
+![crgp](https://github.com/user-attachments/assets/6a014eb8-2a15-40e1-88a9-55fbc1a20b5e)
+
+-**Group Detail Page**:
+![Screenshot 2024-03-15 074823](https://github.com/user-attachments/assets/e0c29fa0-ba1a-4e3e-b206-77dc9ec3880c)
+
+-**Admin dashboard**:
 ![admindash](https://github.com/user-attachments/assets/fb74b1ea-48df-42e7-8539-ee7e1092af04)
+
+-**Admin Approval**:
+![Screenshot 2024-03-14 224935](https://github.com/user-attachments/assets/610c5373-22a4-4a51-b5e0-c668030d8317)
+
 
 
