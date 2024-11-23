@@ -43,17 +43,26 @@ The **Fare Friendly Student Pass Organizer** was developed to address these issu
 ![log](https://github.com/user-attachments/assets/01c53273-70b1-47c4-b5e5-673e297183e6)
 -**Student dashboard**:
 ![Screenshot 2024-03-14 220622](https://github.com/user-attachments/assets/3aa8cc0a-42e4-45b9-93cb-8459df4dd8c2)
+-**Student password change**:
+![image](https://github.com/user-attachments/assets/d3f9293e-6d58-482b-8919-0f447baff154)
+
 -**Student Group Creation Page**:
 ![crgp](https://github.com/user-attachments/assets/6a014eb8-2a15-40e1-88a9-55fbc1a20b5e)
 
 -**Group Detail Page**:
-![Screenshot 2024-03-15 074823](https://github.com/user-attachments/assets/e0c29fa0-ba1a-4e3e-b206-77dc9ec3880c)
+![image](https://github.com/user-attachments/assets/0a3feff1-9f0e-4dfe-b591-1baf4cf9039b)
+
+-**Application Print**:
+![image](https://github.com/user-attachments/assets/1fc5db31-400e-407c-8b83-77dfbf0c4131)
+
 
 -**Admin dashboard**:
 ![admindash](https://github.com/user-attachments/assets/fb74b1ea-48df-42e7-8539-ee7e1092af04)
 
 -**Admin Approval**:
 ![Screenshot 2024-03-14 224935](https://github.com/user-attachments/assets/610c5373-22a4-4a51-b5e0-c668030d8317)
+
+
 
 
 
